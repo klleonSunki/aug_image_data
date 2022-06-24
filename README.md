@@ -1,1 +1,0 @@
-# aug_image_data
